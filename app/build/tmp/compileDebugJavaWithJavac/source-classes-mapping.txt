@@ -1,0 +1,21 @@
+com/miftarom/prj3/R2.java
+ com.miftarom.prj3.R2
+ com.miftarom.prj3.R2$anim
+ com.miftarom.prj3.R2$attr
+ com.miftarom.prj3.R2$bool
+ com.miftarom.prj3.R2$color
+ com.miftarom.prj3.R2$dimen
+ com.miftarom.prj3.R2$drawable
+ com.miftarom.prj3.R2$id
+ com.miftarom.prj3.R2$integer
+ com.miftarom.prj3.R2$layout
+ com.miftarom.prj3.R2$plurals
+ com.miftarom.prj3.R2$string
+ com.miftarom.prj3.R2$style
+ com.miftarom.prj3.R2$styleable
+com/miftarom/prj3/Halaman1.java
+ com.miftarom.prj3.Halaman1
+com/miftarom/prj3/BuildConfig.java
+ com.miftarom.prj3.BuildConfig
+com/miftarom/prj3/Halaman2.java
+ com.miftarom.prj3.Halaman2

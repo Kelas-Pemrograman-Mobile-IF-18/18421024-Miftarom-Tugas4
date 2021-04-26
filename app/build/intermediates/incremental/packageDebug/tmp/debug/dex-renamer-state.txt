@@ -1,0 +1,4 @@
+#Sun Apr 25 17:02:28 ICT 2021
+base.0=A\:\\44617461204B756C696168\\PemrogramanMobileSem6\\Prj3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
